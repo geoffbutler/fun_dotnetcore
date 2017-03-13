@@ -25,7 +25,7 @@ namespace DotNetCore_XUnit.Test
         [Fact]
         public void CanGetInstance()
         {
-            Assert.NotNull(_target);      
+            Assert.NotNull(_target);
         }
-    }    
+    }
 }
